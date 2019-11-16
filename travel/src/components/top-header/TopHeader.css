@@ -1,0 +1,79 @@
+.header {
+    display: block;
+    height: 60px;
+    background: rgb(213, 213, 223);
+    color: #007D70;
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    opacity: 0.8;
+}
+
+.header .container {
+    margin: 0 auto;
+    height: 60px;
+    font-weight: 600;
+    position: relative;
+}
+
+.header .container .menu-header {
+    line-height: 60px;
+    font-size: 14px;
+    width: 100%;
+    width: 85%;
+    position: fixed;
+    z-index: 2;
+}
+.header .container .menu-header .menu-choise span{
+    padding-right: 5px;
+}
+.header .container .menu-header i{
+    padding-right: 5px;
+}
+.header .container .menu-header .hotline {
+    margin-left: 3px;
+    text-transform: uppercase;
+    float: left;
+}
+
+.header .container .menu-header .best-tour {
+    padding-left: 20px;
+    float: left;
+}
+
+.header .container .menu-header .best-tour span {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.header .container .menu-header .best-tour em {
+    display: inline-block;
+    min-width: 10px;
+    text-transform: none;
+    color: #fff;
+    background: #fc8f30;
+    border-color: #36c1c2;
+    border-radius: 12px;
+    font-size: inherit;
+    padding: 3px 6px;
+    top: 3px;
+    right: -35px;
+    line-height: 1;
+}
+
+.header .container .menu-header .logo-tour {
+    width: 200px;
+    float: left;
+    margin-left: 80px;
+}
+
+.header .container .menu-header .menu-choise {
+    float: right;
+    text-transform: uppercase;
+}
+
+.header .container .menu-header .help {
+    float: right;
+    padding-right: 15px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,7 @@
+.ContentBanner img{
+    opacity: .8;
+    width: 100%;
+}
+.ContentBanner img:hover{
+    opacity: 1;
+}

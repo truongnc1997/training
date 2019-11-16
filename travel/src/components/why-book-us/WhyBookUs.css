@@ -1,0 +1,59 @@
+.why-book-us {
+    background: #F9F9F9;
+    width: 100%;
+    height: 80px;
+}
+
+.why-book-us .container .why-book {
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px 0 10px;
+}
+
+.why-book-us .container .why-book {
+    list-style: none;
+    color: #666;
+    text-transform: capitalize;
+    font-size: 12px;
+    width: 100%;
+    padding: 10px 0;
+    float: left;
+}
+
+.why-book-us .container .why-book a {
+    float: left;
+    /* box-sizing: border-box; */
+    width: 16.66666667%;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #666;
+}
+
+.why-book-us .container .why-book a:hover {
+    color: #00a9a6;
+    text-decoration: none;
+}
+
+.why-book-us .container .why-book .active {
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    line-height: 15px;
+    color: #666;
+    float: left;
+    padding-right: 10px;
+}
+
+.why-book-us .container .why-book a i {
+    float: left;
+    font-size: 200%;
+    padding-top: 5px;
+}
+
+.why-book-us .container .why-book a span {
+    padding-left: 10px;
+    font-size: 12px;
+    font-weight: 600;
+}

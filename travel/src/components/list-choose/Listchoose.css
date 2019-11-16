@@ -1,0 +1,57 @@
+h2{
+    text-align: center;
+}
+.ListChoose{
+    background: #f1f1f1;
+}
+.row .column{
+    margin: 25px 0 ;
+}
+.row .column li{
+    list-style: none;
+}
+.row .column .col-xs-6.col-md-4{
+    position: relative;
+}
+.row .column .col-xs-6.col-md-4 img{
+    transition: all .2s ease;
+    transform-origin: 50% 50%;
+    opacity: .8;
+}
+.row .column li:hover{
+    opacity: 1;
+    transform: scale(1.05);
+    transition: all 0.35s;
+}
+.row .column .col-xs-6.col-md-4 p{
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 0 0 2px #000;
+}
+.row .column .col-xs-6 p{
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 0 0 2px #000;
+}
+.row .column .col-xs-6 img{
+    opacity: .8;
+    transition: all .2s ease;
+    transform-origin: 50% 50%;
+}
+.row .column li:hover{
+    opacity: 1;
+    transform: scale(1.05);
+    transition: all 0.35s;
+}

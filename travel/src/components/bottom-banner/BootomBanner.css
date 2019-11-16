@@ -1,0 +1,8 @@
+.bootom-banner img{
+    opacity: .8;
+    width: 100%;
+    margin-top: 20px;
+}
+.bootom-banner img:hover{
+    opacity: 1;
+}
