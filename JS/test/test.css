@@ -1,0 +1,32 @@
+/* .Traffic{
+    display: flex;
+    flex-direction: column;
+}
+.Traffic .buld{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    border-radius: 50%;
+    opacity: .2;
+}
+.Traffic .buld.red{
+    background: red;
+}
+.Traffic .buld.yellow{
+    background: yellow;
+}
+.Traffic .buld.green{
+    background: green;
+}
+.Traffic .buld .active{
+    opacity: 1;
+} */
+.col-md-6 .card .card-img-top{
+    width: 100%;
+}
+.home-start i{
+    color: #f5b942;
+}
+.d-block.w-100{
+    width: 100%;
+}

@@ -3,7 +3,9 @@
     width: 100%;
     height: 80px;
 }
-
+.why-book-us .container{
+    padding-left: 60px;
+}
 .why-book-us .container .why-book {
     height: 50px;
     padding-left: 10px;

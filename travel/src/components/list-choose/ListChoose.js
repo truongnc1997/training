@@ -18,16 +18,16 @@ class ListChoose extends Component {
                     <div className="column">
                         <a href="#">
                             <li className="col-xs-6 col-md-4">
-                                <img src="https://d1k2oi80tv211b.cloudfront.net/hvn/images/home/cruise-halong/luxury.jpg" alt="choose luxury" />
-                                <p>luxury</p>
+                                <img src="https://d1k2oi80tv211b.cloudfront.net/hvn/images/home/cruise-halong/deluxe.jpg" alt="duluxe" />
+                                <p>duluxe</p>
                             </li>
                         </a>
                     </div>
                     <div className="column">
                         <a href="#">
                             <li className="col-xs-6 col-md-4">
-                                <img src="https://d1k2oi80tv211b.cloudfront.net/hvn/images/home/cruise-halong/luxury.jpg" alt="choose luxury" />
-                                <p>luxury</p>
+                                <img src="https://d1k2oi80tv211b.cloudfront.net/hvn/images/home/cruise-halong/budger.jpg" alt="budget" />
+                                <p>budget</p>
                             </li>
                         </a>
                     </div>

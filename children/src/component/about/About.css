@@ -1,0 +1,7 @@
+.toast.show{
+    margin: auto;
+    margin-top: 10em;
+}
+.toast{
+    max-width: 550px;
+}

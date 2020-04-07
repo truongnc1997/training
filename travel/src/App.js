@@ -9,6 +9,7 @@ import ListChoose from './components/list-choose/ListChoose';
 import BootomBanner from './components/bottom-banner/BootomBanner';
 import HelpContact from './components/help-contact/HelpContact';
 import Footer from './components/footer/Footer';
+import SliderShow from './components/slider/SliderShow';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <WhyBookUs />
       <div className="container">
         <ContentBanner />
+        <SliderShow />
       </div>
       <ListChoose />
       <div className = "container">
