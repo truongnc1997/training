@@ -5,4 +5,5 @@ step set up
 #3: install reactstrap
   npm install --save bootstrap
   npmnpm install --save reactstrap react react-dom
-#4: npm start
+#4: npm install react-loadingg
+#5: npm start
